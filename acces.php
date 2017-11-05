@@ -39,6 +39,7 @@
 	<!-- Document Title
 	============================================= -->
 	<title>Accès - Grand Gala des Fignos 2017 - Châlons-en-Champagne</title>
+	<link rel="icon" href="assets/images/favicon.ico" />
 
 <script type="text/javascript" charset="UTF-8" src="./Accès - Grand Gala des Fignos 2015 - Châlons-en-Champagne_files/common.js"></script><script type="text/javascript" charset="UTF-8" src="./Accès - Grand Gala des Fignos 2015 - Châlons-en-Champagne_files/map.js"></script><script type="text/javascript" charset="UTF-8" src="./Accès - Grand Gala des Fignos 2015 - Châlons-en-Champagne_files/util.js"></script><script type="text/javascript" charset="UTF-8" src="./Accès - Grand Gala des Fignos 2015 - Châlons-en-Champagne_files/geocoder.js"></script><script type="text/javascript" charset="UTF-8" src="./Accès - Grand Gala des Fignos 2015 - Châlons-en-Champagne_files/marker.js"></script><script type="text/javascript" charset="UTF-8" src="./Accès - Grand Gala des Fignos 2015 - Châlons-en-Champagne_files/onion.js"></script><script type="text/javascript" charset="UTF-8" src="./Accès - Grand Gala des Fignos 2015 - Châlons-en-Champagne_files/controls.js"></script><script type="text/javascript" charset="UTF-8" src="./Accès - Grand Gala des Fignos 2015 - Châlons-en-Champagne_files/stats.js"></script></head>
 
@@ -195,19 +196,26 @@
 					<li>Stationnement résidenciel (stationnement payant jusqu'à 19h).</li>
 					<li>Stationnement gratuit : avenue du Maréchal Leclerc - entre les deux Jards</li>
 				</ul>
-				</p>
-			
-				<div class="entry-image" style="text-align: center">
-					<iframe width="600" height="450" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJw1v_z3vg60cRP5LAh5cQ3a8&destination=place_id:ChIJAeLGcYDg60cR8Ak3RreORvY&mode=walking&key=AIzaSyA2tSxA0wBFok8wrSN4V8iIln0ROF76EGo" allowfullscreen></iframe>
-				</div>
-				
-			</div>
-			
-		
+				</p>			
+			</div>	
 		</section>
 		
-		<!-- Pricing end -->
+		<!-- Map start -->
+		<section id="map-section" style="height:auto">
+			<div class="container">
+				<div class="row">
+				</div><!-- .row -->
+
+					<div class="module-subtitle font-serif">
+								Adresse : 3 rue de la Rochefoucauld, 51000 Châlons-en-Champagne
+					</div>
+
+				</div><!-- .row -->
+
+			</div><!-- .container -->
+			<div id="map"></div>
+		</section>
+		<!-- Map end -->
 
 
 		<?php include 'footer.php'; ?>

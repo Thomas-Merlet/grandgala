@@ -48,6 +48,7 @@
 	<!-- Document Title
 	============================================= -->
 	<title>Le Gala - Grand Gala des Fignos 2017 - Châlons-en-Champagne</title>
+	<link rel="icon" href="assets/images/favicon.ico" />
 
 </head>
 <body class="stretched device-lg">

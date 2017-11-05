@@ -55,6 +55,7 @@
 	<!-- Document Title
 	============================================= -->
 	<title>Les Arts &amp; Métiers - Grand Gala des Fignos 2017 - Châlons-en-Champagne</title>
+	<link rel="icon" href="assets/images/favicon.ico" />
 
 </head>
 
