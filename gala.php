@@ -45,7 +45,7 @@
 							
 							<div class="entry-c">
 								<div class="entry-title">
-									<h2>>Un évènement exceptionnel</h2>
+									<h2>Un évènement exceptionnel</h2>
 								</div>
 								<div class="entry-image" style="text-align: center">
 									<a data-lightbox="image"><img class="image_fade" src="./assets/images/feu-darts-small.jpg" alt="Standard Post with Image"></a>

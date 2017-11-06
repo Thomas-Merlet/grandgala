@@ -47,6 +47,16 @@
 
 <body class="stretched device-lg">
 		
+		<!-- Page Title
+		============================================= -->
+		<section id="page-title">
+
+			<div class="container clearfix">
+				<h4><br/><br/><br/></h4>
+			</div>
+
+		</section><!-- #page-title end -->
+
 
 		<!-- Content
 		============================================= -->
@@ -94,7 +104,6 @@
 						
 					</div><!-- #posts end -->
 				</div>
-s
 			</div>
 
 		</section><!-- #content end -->
