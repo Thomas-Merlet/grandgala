@@ -18,7 +18,7 @@
 	<!-- Background -->
 
 	
-	<section id="home" class="home-section home-parallax home-fade home-full-height bg-dark-30" data-background="assets/images/fond_affiche.png">
+	<section id="home" class="home-section home-parallax home-fade home-full-height bg-dark-30" data-background="assets/images/Fond_Affiche.png">
 		<div class="hs-caption">
 			<div class="caption-content">
 				<div class="hs-title-size-1 font-alt mb-30">
