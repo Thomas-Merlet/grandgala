@@ -20,7 +20,15 @@
 					<li class="current"><a href="http://ggch.gadz.org/index.php"><div>Accueil</div></a></li>
 					<li><a href="http://ggch.gadz.org/les_arts_et_metiers.php"><div>Les Arts &amp; Métiers</div></a></li>
 					<li><a href="http://ggch.gadz.org/gala.php"><div>Le Gala</div></a></li>
-					<li><a href="http://ggch.gadz.org/reservation.php"><div>Réservations</div></a></li>
+					
+					<li class="dropdown">
+								<a class="dropdown-toggle" data-toggle="dropdown">Réservations</a>
+								<ul class="dropdown-menu">
+									<li><a href="http://ggch.gadz.org/reservation.php"><div>Billetterie (soirée)</div></a></li>
+									<li><a href="http://ggch.gadz.org/questionnaire_archis.php"><div>Questionnaire - Archis</div></a></li>
+								</ul>
+					</li>
+					
 					
 					<li class="dropdown">
 								<a class="dropdown-toggle" data-toggle="dropdown">Informations</a>

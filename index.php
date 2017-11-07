@@ -31,8 +31,8 @@
 					<b>Samedi 2 Décembre 2017</b>
 				</div>
 
-				<a href="#soiree" class="btn btn-border-w btn-round section-scroll"><b>En savoir plus</b></a>
-				<a href="http://ggch.gadz.org/reservation.php" class="btn btn-border-w btn-round section-scroll"><b>Réservations</b></a>
+				<a href="#soiree" class="btn btn-border-w btn-round section-scroll" style="margin-bottom: 5px"><b>En savoir plus</b></a>
+				<a href="http://ggch.gadz.org/reservation.php" class="btn btn-border-w btn-round section-scroll" style="margin-bottom: 5px"><b>Billetterie</b></a>
 			</div>
 		</div>
 
@@ -120,6 +120,19 @@
 			</div>
 		</section>
 		<!-- Alt features end -->
+		
+		
+		<section id="partenaires" class="module" style="padding:30px">
+			<div class="container">
+
+				<div class="row" style="text-align:center">
+					<h2 class="module-title font-alt" style="margin:0px">Partenaires</h2>
+					<img src="assets/images/balsan.jpg" style="width:150px; margin:50px">
+					<img src="assets/images/le_renard.jpg" style="width:150px; margin:50px">
+				</div>
+			</div>
+		</section>
+		
 
 		<!-- Divider -->
 		<hr class="divider-d">

@@ -5,7 +5,7 @@
 				<div class="row">
 	
 					<div class="col-sm-6">
-						<p class="copyright font-alt">© Grand Gala des Fignos 2017, Châlons-en-Champagne.</p>
+						<p class="copyright font-alt">© Grand Gala des Fignos 2017, Châlons-en-Champagne. <a href="mailto:gg.ch@gadz.org" target="_blank">gg.ch@gadz.org</a></p>
 					</div>
 	
 					<div class="col-sm-6">

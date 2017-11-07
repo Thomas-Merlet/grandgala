@@ -96,7 +96,7 @@
 									<p>L’Association des Élèves des Arts et Métiers de Châlons fédère quelques 300 Gadz'Arts (Gars des Arts). L’AE de Châlons dépend de l’Union des Élèves, la plus importante association étudiante d’Europe de par sa taille (3300 élèves) et son budget annuel (4 M€). L'UE est basée à Paris et regroupe toutes les AE des différents centres.</p>
 								</div>
 							</div>
-							<div class="entry-image" style="text-align: center">
+							<div class="entry-image" style="text-align: center; margin-bottom: 20px">
 								<a  data-lightbox="image"><img class="image_fade" src="./assets/images/Promo216.jpg" alt="L&#39;Association des Elèves" style="width: 600px"></a>
 							</div>
 						</div>
