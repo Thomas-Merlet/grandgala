@@ -58,6 +58,38 @@
 						</div>
 						
 
+						<div class="entry clearfix">
+							<div class="entry-c">
+								<div class="entry-title">
+									<h2><a href="http://ggch.gadz.org/blog-single.html">Le programme</a></h2>
+								</div>
+								<div class="entry-content">
+									<p>
+									<h4><strong> Samedi : </strong></h4>
+										</p><ul>
+											<li><strong>9h30</strong> : Baptsage par la promotion 216 (réservé aux élèves)</li>
+											<li><strong>11h</strong> : Baptsage par les archis (réservé aux anciens élèves)</li>
+											<li><strong>13h00 à 15h00</strong> : Visite libre des bâtiments pédagogiques</li>
+											<li><strong>15h00</strong> : Départ du mônome en Ville, qui aura lieu en cour d’honneur de la résidence</li>
+											<li><strong>16h30</strong> : Début de la cérémonie officielle en cour d’honneur</li>
+											<li><strong>18h00</strong> : Apéritif au grand gymnase par familles gadzariques</li>
+											<li><strong>19h45-20h00</strong> : Départ des familles aux restaurants</li>
+											<li><strong>22h00-22h15</strong> : Départ des familles aux restaurants</li>
+											<li><strong>22h30</strong> : Ouverture du Grand Gala des Fignos 2017</li>
+											<li><strong>5h00 </strong> : Fermeture du Grand Gala des Fignos 2017</li>
+										</ul>
+										<h4><strong> Dimanche : </strong></h4>
+										<ul>
+										<li><strong>12h30</strong> : Banquet</li>
+										<li><strong>13h00</strong> : Revue</li>
+										<li><strong>15h00</strong> : Fin du Banquet et des festivités</li>
+										<ul>
+									<p></p>
+								</div>
+							</div>
+						</div>
+						
+						
 						
 						<div class="entry clearfix">
 							<div class="entry-image">

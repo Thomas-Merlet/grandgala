@@ -5,6 +5,8 @@
 <head>
 	<?php include 'head.php'; ?>
 	<title>Hôtels - Grand Gala des Fignos 2017 - Châlons-en-Champagne</title>
+	<meta name="description" content="Liste d'hôtels de la région" />
+	
 </head>
 
 

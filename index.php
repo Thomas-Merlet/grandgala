@@ -4,6 +4,8 @@
 <head>
 	<?php include 'head.php'; ?>
 	<title>Grand Gala des Fignos 2017 - Châlons-en-Champagne</title>
+	<meta name="description" content="Les élèves des Arts et Métiers ParisTech sont fiers de vous convier au Grand Gala des Fignos de Châlons, le samedi 2 décembre 2017." />
+	
 </head>
 
 <body class="stretched device-lg">
@@ -129,6 +131,7 @@
 					<h2 class="module-title font-alt" style="margin:0px">Partenaires</h2>
 					<img src="assets/images/balsan.jpg" style="width:150px; margin:50px">
 					<img src="assets/images/le_renard.jpg" style="width:150px; margin:50px">
+					<img src="assets/images/nrj.jpg" style="width:150px; margin:50px">
 				</div>
 			</div>
 		</section>
