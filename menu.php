@@ -25,6 +25,7 @@
 								<a class="dropdown-toggle" data-toggle="dropdown">Réservations</a>
 								<ul class="dropdown-menu">
 									<li><a href="http://ggch.gadz.org/reservation.php"><div>Billetterie (soirée)</div></a></li>
+									<li><a href="http://ggch.gadz.org/reservation_banquet.php"><div>Billetterie (banquet)</div></a></li>
 									<li><a href="http://ggch.gadz.org/questionnaire_archis.php"><div>Questionnaire - Archis</div></a></li>
 								</ul>
 					</li>

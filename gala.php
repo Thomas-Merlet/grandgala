@@ -61,7 +61,7 @@
 						<div class="entry clearfix">
 							<div class="entry-c">
 								<div class="entry-title">
-									<h2><a href="http://ggch.gadz.org/blog-single.html">Le programme</a></h2>
+									<h2>Le programme</h2>
 								</div>
 								<div class="entry-content">
 									<p>

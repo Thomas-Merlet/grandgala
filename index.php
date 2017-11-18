@@ -34,7 +34,8 @@
 				</div>
 
 				<a href="#soiree" class="btn btn-border-w btn-round section-scroll" style="margin-bottom: 5px"><b>En savoir plus</b></a>
-				<a href="http://ggch.gadz.org/reservation.php" class="btn btn-border-w btn-round section-scroll" style="margin-bottom: 5px"><b>Billetterie</b></a>
+				<a href="http://ggch.gadz.org/reservation.php" class="btn btn-border-w btn-round section-scroll" style="margin-bottom: 5px"><b>Billetterie (soirée)</b></a>
+				<a href="http://ggch.gadz.org/reservation_banquet.php" class="btn btn-border-w btn-round section-scroll" style="margin-bottom: 5px"><b>Billetterie (banquet)</b></a>
 			</div>
 		</div>
 
